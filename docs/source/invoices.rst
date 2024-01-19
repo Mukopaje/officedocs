@@ -4,7 +4,7 @@ Invoices
    :description: Invoice and Project Management for freelancers and small business. Easily create and track invoices and get paid online. Manage your deals and leads.
    :keywords: projects,invoices,freelancer,deals,leads,crm,estimates,tickets,subscriptions,tasks,contacts,contracts,creditnotes,freelancer office,codecanyon
 
-Invoices allow you to bill a Client for your products and/or services, and help you keep track of your income in Workice CRM. 
+Invoices allow you to bill a Client for your products and/or services, and help you keep track of your income in CRM. 
 Every invoice paid means more revenue coming into your business. Create and send professional invoices to your customers in seconds. Once you’ve entered the client and tax information, you’ll have a range of actions at your fingertips – from saving a draft, to sending the invoice to the client via email, to printing a PDF hard copy.
 
 Overview
@@ -126,8 +126,8 @@ Auto Reminders
 
 Save yourself the time and hassle and automate your client communications! An invoice reminder is an automatic email message to remind your customer that an invoice is coming due or that it is overdue. This is a great way to stay on top of reminding your customers that you should be getting paid soon.
 
-You can have Workice CRM send reminders that invoices will be due to be paid soon, and we call these **Upcoming Reminders**.
-You can also have Workice send reminders that invoices are overdue, and we call these **Overdue Reminders**.
+You can have CRM send reminders that invoices will be due to be paid soon, and we call these **Upcoming Reminders**.
+You can also have CRM send reminders that invoices are overdue, and we call these **Overdue Reminders**.
 
 Upcoming Reminders
 ^^^^^^^^^^^^^^^^^^^^
@@ -141,7 +141,7 @@ Overdue Reminders
 ^^^^^^^^^^^^^^^^^^^
 To enable Invoice Overdue Reminders, go to **Settings** > **Invoice Settings** > **Send Overdue Emails** and enable it.
 
-Once you’ve got these reminders set up, you don’t have to do anything else; Workice will continue to send these reminders on the schedule you set until the end of time (or until you get paid, whichever comes first).
+Once you’ve got these reminders set up, you don’t have to do anything else; CRM will continue to send these reminders on the schedule you set until the end of time (or until you get paid, whichever comes first).
 
 .. TIP:: Modify the number of days to send each invoice reminder in **Settings** - **Invoice Settings** section. You may also set late fee to apply on third reminder.
 
