@@ -4,7 +4,7 @@ Reports
    :description: Stay on track with your finances with dynamically generated reports, monthly and yearly reports, income and expenses summaries.
    :keywords: projects,invoices,freelancer,deals,leads,crm,estimates,tickets,subscriptions,tasks,contacts,contracts,creditnotes,freelancer office,codecanyon
 
-You can only manage what you can measure. With `Workice CRM <https://workice.com>`__, manage the way your business is run with reporting that breaks down key metrics relating to your sales trends, invoices, projects, expenses and more. Reports are a great way to not only see how you're doing, but also forecast where you're going in the future.
+You can only manage what you can measure. With CRM, manage the way your business is run with reporting that breaks down key metrics relating to your sales trends, invoices, projects, expenses and more. Reports are a great way to not only see how you're doing, but also forecast where you're going in the future.
 
 .. ATTENTION:: All the charts and statistics displayed in the reports section will use your base currency.
 
