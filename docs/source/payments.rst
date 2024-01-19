@@ -12,7 +12,7 @@ Payments List
 The Payments list page displays a summary of all payments once they have been received. Payments are recorded in two ways:
 
 1. **Automatic payment**: If your client has paid you via any of the supported payment gateways, the payment will be automatically recorded in the Payments list. You will be notified on your dashboard page in the notification section, and also via email (if you have enabled notification).
-2. **Manual payment**: If your client has paid you via cash, check, bank transfer, credit card or any other payment system not linked to Workice CRM, you will need to enter the payment manually on the Payments / Create page.
+2. **Manual payment**: If your client has paid you via cash, check, bank transfer, credit card or any other payment system not linked to CRM, you will need to enter the payment manually on the Payments / Create page.
 
 Whether automatic or manual entry, the Payments list page presents an overview of all payments received in a user-friendly table format. Now, we’ll take you through the various columns in the Payments table from left to right:
 
