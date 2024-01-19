@@ -4,7 +4,7 @@ Social Logins
    :description: Built into a smart work flow that includes e-signatures for your freelancer e-contracts.
    :keywords: projects,invoices,freelancer,deals,leads,crm,estimates,tickets,subscriptions,tasks,contacts,contracts,creditnotes,freelancer office,codecanyon
 
-In addition to typical, form based authentication, `Workice CRM <https://workice.com>`__ also provides a simple, convenient way to authenticate with OAuth providers. 
+In addition to typical, form based authentication, CRM also provides a simple, convenient way to authenticate with OAuth providers. 
 
 .. TIP:: Workice CRM currently supports authentication with **Facebook, Twitter, LinkedIn, Google, GitHub and GitLab**
 
