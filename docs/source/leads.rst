@@ -4,7 +4,7 @@ Leads
    :description: Manage and follow up with leads all in one place.
    :keywords: projects,invoices,freelancer,deals,leads,crm,estimates,tickets,subscriptions,tasks,contacts,contracts,creditnotes,freelancer office,codecanyon
 
-Lead management is an important part of any sales process. When you get information about someone who might be interested in your products or services, but haven’t yet verified their interest or fit for your business, you’ll add them to `Workice CRM <https://workice.com/>`_ on the Leads section.
+Lead management is an important part of any sales process. When you get information about someone who might be interested in your products or services, but haven’t yet verified their interest or fit for your business, you’ll add them to CRM on the Leads section.
 
 Once you’ve determined a lead is qualified, you’ll convert the lead and Workice will create a sales opportunity(deal), a contact, and an organization for you.
 
