@@ -1,22 +1,19 @@
 Introduction
 ============
 
-`Workice CRM <https://workice.com>`__ is a place for you to store information on the people and clients you interact with and track your outreach efforts. The CRM includes sales and marketing dashboards, invoicing dashboard, expenses dashboard, payments dashboard, projects and ticketing dashboards.
-
-To purchase Workice CRM visit `Envato Market <https://codecanyon.net/user/gitbench>`__
+CRM is a place for you to store information on the people and clients you interact with and track your outreach efforts. The CRM includes sales and marketing dashboards, invoicing dashboard, expenses dashboard, payments dashboard, projects and ticketing dashboards.
 
 Top Navigation
 ^^^^^^^^^^^^^^
 
-In your Workice account, click your login name next to your avatar in the top navigation bar.  
+In your CRM account, click your login name next to your avatar in the top navigation bar.  
 The following sections will appear in the dropdown menu: 
 
 - Settings - Your Profile settings including GDPR.
-- Tell a friend - Like Workice CRM? Share it with a friend.
 - Reminders - Shows a list of all your reminders.
 - Notifications - A list of all your notifications.
 - Canned Responses - Instead of repeatedly copying and pasting the same email response you can save time by using canned responses.
-- Need Help? - Have an issue? Open a ticket with us directly within your Workice CRM.
+- Need Help? - Have an issue? Open a ticket with us directly within your CRM.
 
 Invoicing Dashboard
 ^^^^^^^^^^^^^^^^^^^
