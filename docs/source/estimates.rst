@@ -8,9 +8,9 @@ Estimates allow you to create and send an approximate outline of your Items or F
 
 Estimates List
 """""""""""""""
-As a freelancer, many jobs – whether big or small – will begin as an estimate. How so? Well, a client expresses interest in your skills or product, but wants to know how much it’s going to cost, in advance. With the estimates feature of `Workice <https://workice.com>`__, you can easily create a price estimate and send it to the client up front, helping them make the decision to commit, and helping you keep track of your projected work schedule and income.
+As a freelancer, many jobs – whether big or small – will begin as an estimate. How so? Well, a client expresses interest in your skills or product, but wants to know how much it’s going to cost, in advance. With the estimates feature of CRM you can easily create a price estimate and send it to the client up front, helping them make the decision to commit, and helping you keep track of your projected work schedule and income.
 
-Once the price quote is accepted by the client, `Workice <https://workice.com>`__ enables automatic creation of an invoice that imports all the estimate data, so your estimates and invoices are linked, organized and easily traceable.
+Once the price quote is accepted by the client, CRM enables automatic creation of an invoice that imports all the estimate data, so your estimates and invoices are linked, organized and easily traceable.
 
 To view your estimates list page, click the **Accounting** tab on the main sidebar, and select Estimates from the drop-down menu. This will open the Estimates list page.
 
