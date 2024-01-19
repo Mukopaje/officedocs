@@ -4,7 +4,7 @@ Tickets
    :description: Easily deal with customer support tickets, create knowledgebase to provide the best possible support for your freelance services.
    :keywords: projects,invoices,freelancer,deals,leads,crm,estimates,tickets,subscriptions,tasks,contacts,contracts,creditnotes,freelancer office,codecanyon
 
-Tickets are the means through which your end users (customers) communicate with agents in your support system. `Workice <https://workice.com>`__ support system allows you to present a web portal to your customers to create, track, and respond to support requests.
+Tickets are the means through which your end users (customers) communicate with agents in your support system. CRM support system allows you to present a web portal to your customers to create, track, and respond to support requests.
 Regardless of the type of customer support you provide, the one constant for all support organizations is that customers seek you out to help them resolve their issues. 
 
 Here are some of the options that your customers have for contacting you:
