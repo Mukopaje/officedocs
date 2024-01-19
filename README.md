@@ -1,6 +1,6 @@
 # CRM Docs 🎉
 
-## One CRM to manage your entire freelance business. ⭐️
+## One CRM to manage your entire business. ⭐️
 
 CRM Software is a web based, easy, powerful yet affordable CRM with sales and marketing tools, project management, expense tracking, invoicing and estimates tools for small businesses/freelancers.
 
