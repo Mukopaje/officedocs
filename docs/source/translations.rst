@@ -4,7 +4,7 @@ Translations
    :description: Support for multiple languages to avoid any language barrier
    :keywords: projects,invoices,freelancer,deals,leads,crm,estimates,tickets,subscriptions,tasks,contacts,contracts,creditnotes,freelancer office,codecanyon
 
-Translations are a collection of visual elements in the `Workice <https://workice.com>`__ application, like labels, information messages, notifications, alerts, work flow statuses, etc
+Translations are a collection of visual elements in the CRM application, like labels, information messages, notifications, alerts, work flow statuses, etc
 
 To modify the text translated to the target language, navigate to **Settings** > **Translations** in the main menu.
  - Click on the **Pencil** icon of the language you want to modify.
