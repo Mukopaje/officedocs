@@ -11,7 +11,7 @@ Once a subscription has been created, it will begin to auto-renew on the period 
 
 .. ATTENTION:: For subscriptions to work, you need to configure Stripe Keys. Check **Configure** under installation section of this documentation for more details.
 
-.. TIP:: If you haven’t created your products and billing plans, you should create via the Stripe Dashboard, `Workice CRM <https://workice.com>`__ will fetch the billing plans directly from Stripe and will display them while creating/updating subscription.
+.. TIP:: If you haven’t created your products and billing plans, you should create via the Stripe Dashboard, CRM will fetch the billing plans directly from Stripe and will display them while creating/updating subscription.
 
 Getting Started
 """""""""""""""
