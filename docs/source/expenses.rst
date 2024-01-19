@@ -1,7 +1,7 @@
 Expenses
 ========
 .. meta::
-   :description: Workice CRM makes it easy to keep track of your spending. This article shows you how to add an Expense, as well as set up recurring Expenses and even re-categorizing them.
+   :description: CRM makes it easy to keep track of your spending. This article shows you how to add an Expense, as well as set up recurring Expenses and even re-categorizing them.
    :keywords: projects,invoices,freelancer,deals,leads,crm,estimates,tickets,subscriptions,tasks,contacts,contracts,creditnotes,freelancer office,codecanyon
 
 Track all of your lunch meetings or training materials, and other miscellaneous expenses in the Expenses section, and instantly bill clients.
@@ -30,9 +30,9 @@ The Expenses list page displays a list of all business expenses that you choose 
 Expense Categories
 """"""""""""""""""
 
-`Workice <https://workice.com>`__ makes it easy to keep track of your spending with Expenses with categories to organize them. 
+CRM makes it easy to keep track of your spending with Expenses with categories to organize them. 
 
-Workice also makes it easy for you to create your own custom categories if a specific one isn't available. 
+CRM also makes it easy for you to create your own custom categories if a specific one isn't available. 
 
 Adding/Editing Categories
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
