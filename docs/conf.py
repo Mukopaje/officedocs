@@ -21,7 +21,7 @@ project = "CRM Documentation"
 copyright = "2023, Digital Systems"
 author = "Digital Systems"
 
-
+master_doc = "index"
 # -- General configuration ---------------------------------------------------
 # -- General configuration
 
