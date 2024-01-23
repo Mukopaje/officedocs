@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = u'CRM'
-copyright = u'2019, William Mandai'
-author = u'William Mandai'
+copyright = u'2023, Mukopaje Singogo'
+author = u'Mukopaje Singogo'
 
 # The short X.Y version
 version = u''
